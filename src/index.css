@@ -44,6 +44,7 @@ code {
 .note.new {
   background-color: #323640;
   color: white;
+  margin-bottom: 15px;
 }
 
 textarea {
